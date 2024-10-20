@@ -1,0 +1,73 @@
+{
+    "playlist": {
+      "title": "Top Hindi Romantic Songs",
+      "description": "A collection of the most romantic Hindi songs.",
+      "songs": [
+        {
+          "title": "Tum Hi Ho",
+          "artist": "Arijit Singh",
+          "album": "Aashiqui 2",
+          "releaseYear": 2013,
+          "listenUrl": "https://open.spotify.com/search/tum%20se%20hi",
+          "posterCard": "https://example.com/posters/tum-hi-ho.jpg"
+        },
+        {
+          "title": "Tera Ban Jaunga",
+          "artist": "Akhil Sachdeva, Tulsi Kumar",
+          "album": "Kabir Singh",
+          "releaseYear": 2019,
+          "listenUrl": "https://example.com/tera-ban-jaunga",
+          "posterCard": "https://example.com/posters/tera-ban-jaunga.jpg"
+        },
+        {
+          "title": "Pehla Nasha",
+          "artist": "Udit Narayan, Sadhana Sargam",
+          "album": "Jo Jeeta Wohi Sikandar",
+          "releaseYear": 1992,
+          "listenUrl": "https://example.com/pehla-nasha",
+          "posterCard": "https://example.com/posters/pehla-nasha.jpg"
+        },
+        {
+          "title": "Kabira",
+          "artist": "Aditi Singh Sharma, Tochi Raina",
+          "album": "Yeh Jawaani Hai Deewani",
+          "releaseYear": 2013,
+          "listenUrl": "https://example.com/kabira",
+          "posterCard": "https://example.com/posters/kabira.jpg"
+        },
+        {
+          "title": "Raabta",
+          "artist": "Arijit Singh",
+          "album": "Agent Vinod",
+          "releaseYear": 2012,
+          "listenUrl": "https://example.com/raabta",
+          "posterCard": "https://example.com/posters/raabta.jpg"
+        },
+        {
+          "title": "Tum Se Hi",
+          "artist": "Mohit Chauhan",
+          "album": "Jab We Met",
+          "releaseYear": 2007,
+          "listenUrl": "https://example.com/tum-se-hi",
+          "posterCard": "https://example.com/posters/tum-se-hi.jpg"
+        },
+        {
+          "title": "Dil Diyan Gallan",
+          "artist": "Atif Aslam",
+          "album": "Tiger Zinda Hai",
+          "releaseYear": 2017,
+          "listenUrl": "https://example.com/dil-diyan-gallan",
+          "posterCard": "https://example.com/posters/dil-diyan-gallan.jpg"
+        },
+        {
+          "title": "Tujh Mein Rab Dikhta Hai",
+          "artist": "Roop Kumar Rathod",
+          "album": "Rab Ne Bana Di Jodi",
+          "releaseYear": 2008,
+          "listenUrl": "https://example.com/tujh-mein-rab-dikhta-hai",
+          "posterCard": "https://example.com/posters/tujh-mein-rab-dikhta-hai.jpg"
+        }
+      ]
+    }
+  }
+  
